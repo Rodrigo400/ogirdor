@@ -46,3 +46,5 @@ Linux terminal:
 4. make
 5. ./ogirdor
 
+
+
