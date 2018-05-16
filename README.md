@@ -4,7 +4,7 @@ CS 3350 Software Engineering Game Project
 C++ and OpenGL
 
 
-![alt text](https://raw.githubusercontent.com/Rodrigo400/ogirdor/master/OgirdorGame.png)
+![alt text](https://raw.githubusercontent.com/Rodrigo400/ogirdor/master/OgirdorPhotos/OgirdorGame.png)
 
 
 
