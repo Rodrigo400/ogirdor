@@ -3,6 +3,11 @@ Ogirdor
 CS 3350 Software Engineering Game Project
 C++ and OpenGL
 
+
+![alt text](https://raw.githubusercontent.com/Rodrigo400/ogirdor/master/OgirdorGame.png)
+
+
+
 Description
 
 - In our Summer Software Engineering Class, we were given a project to create a game using vanilla OpenGL and C++ within 6 weeks.
