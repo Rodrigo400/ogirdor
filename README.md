@@ -47,4 +47,28 @@ Linux terminal:
 5. ./ogirdor
 
 
+Screenshots of the game
 
+Home Screen
+![alt text](https://raw.githubusercontent.com/Rodrigo400/ogirdor/master/OgirdorPhotos/OgirdorHome.png)
+
+Tutorial 1/3 Screen
+![alt text](https://raw.githubusercontent.com/Rodrigo400/ogirdor/master/OgirdorPhotos/OgirdorT1.png)
+
+Tutorial 2/3 Screen
+![alt text](https://raw.githubusercontent.com/Rodrigo400/ogirdor/master/OgirdorPhotos/OgirdorT2.png)
+
+Tutorial 3/3 Screen
+![alt text](https://raw.githubusercontent.com/Rodrigo400/ogirdor/master/OgirdorPhotos/OgirdorT3.png)
+
+Insert Player Name Screen
+![alt text](https://raw.githubusercontent.com/Rodrigo400/ogirdor/master/OgirdorPhotos/OgirdorName.png)
+
+Character Selection Screen
+![alt text](https://raw.githubusercontent.com/Rodrigo400/ogirdor/master/OgirdorPhotos/OgirdorCharSel.png)
+
+Level Selection Screen
+![alt text](https://raw.githubusercontent.com/Rodrigo400/ogirdor/master/OgirdorPhotos/OgirdorLevelSel.png)
+
+In-Game Screen
+![alt text](https://raw.githubusercontent.com/Rodrigo400/ogirdor/master/OgirdorPhotos/OgirdorGame.png)
